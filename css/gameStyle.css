@@ -1,0 +1,32 @@
+@font-face{
+    src: url(../font/RetroGaming.ttf);
+    font-family: "Retro Gaming";
+}
+
+html{
+    background-image: url(../images/pixelForest.png);
+    background-size: cover;
+}
+
+body{
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    font-family: "Retro Gaming";
+}
+
+#gameDiv{
+    font-family: "Retro Gaming";
+    font-size: 0%;
+    background-color: darkgreen;
+}
+
+footer{
+    color: ghostwhite;
+}
+
+footer{
+    position: absolute;
+    width: fit-content;
+    bottom: 0%;
+}

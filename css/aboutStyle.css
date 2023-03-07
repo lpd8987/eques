@@ -1,0 +1,13 @@
+img{
+    width: 50vw;
+    height: auto;
+}
+
+html{
+    background-color: darkslategrey;
+}
+
+header, main, footer{
+    background-color: darkgrey;
+    color: ghostwhite;
+}
